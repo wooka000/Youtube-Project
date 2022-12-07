@@ -12,8 +12,8 @@ const router = createBrowserRouter([
   {
     path: "/",
     element: <App />,
-    errorElemen: <NotFound />,
-    childeren: [
+    errorElement: <NotFound />,
+    children: [
       { index: true, element: <Videos /> },
       { path: "videos", element: <Videos /> },
       { path: "videos/:keyword", element: <Videos /> },

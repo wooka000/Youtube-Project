@@ -15,7 +15,7 @@ React와 유튜브 API를 사용하여 유튜브의 기능을 만들어 본 웹�
 
 ## 기술 스택
 
- <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
@@ -26,6 +26,6 @@ React와 유튜브 API를 사용하여 유튜브의 기능을 만들어 본 웹�
 
 **위 프로젝트는 드림코딩의 강의를 활용하여 제작하였습니다.**
 
-- [드림코딩](https://academy.dream-coding.com/courses/react)
+- [드림코딩-React](https://academy.dream-coding.com/courses/react)
 - [유튜브 API](https://developers.google.com/youtube/v3/getting-started?hl=ko)
 - [Iframe Player API](https://developers.google.com/youtube/iframe_api_reference)
